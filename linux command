@@ -1,0 +1,5 @@
+# git init // initialisation new reposiotory
+# ls //listing the data
+# git status //status checking thet means what the initialized list have
+# git add * //adding the initialized files to the repository
+# 
